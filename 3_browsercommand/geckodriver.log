@@ -1,0 +1,295 @@
+1675683176875	geckodriver	INFO	Listening on 127.0.0.1:55588
+1675683180246	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55589" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\DAFFOD~1\\AppData\\Local\\Temp\\rust_mozprofileA62QvL"
+[Child 10480, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10480, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1675683203198	Marionette	INFO	Listening on port 55594
+1675683204341	Marionette	WARN	TLS certificate errors will be ignored for this session
+1675683204442	Marionette	DEBUG	[4294967297] Frame script loaded
+1675683204523	Marionette	DEBUG	[4294967297] Frame script registered
+1675683205970	Marionette	DEBUG	[4294967297] Received DOM event beforeunload for about:blank
+1675683209164	Marionette	DEBUG	[4294967297] Received DOM event pagehide for about:blank
+1675683212512	Marionette	DEBUG	[4294967297] Received DOM event DOMContentLoaded for https://www.google.com/
+1675683213263	Marionette	DEBUG	[4294967297] Received DOM event pageshow for https://www.google.com/
+[Parent 2088, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1088, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10968, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10968, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13560, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13560, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1675683220641	Marionette	INFO	Stopped listening on port 55594
+1675683427601	geckodriver	INFO	Listening on 127.0.0.1:55658
+1675683430634	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55659" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\DAFFOD~1\\AppData\\Local\\Temp\\rust_mozprofile2OpzPg"
+[Child 3688, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 7460, Gecko_IOThread] WARNING: file z:/build/build/src/ipc/chromium/src/base/process_util_win.cc, line 188
+1675683449147	Marionette	INFO	Listening on port 55664
+1675683450459	Marionette	WARN	TLS certificate errors will be ignored for this session
+1675683450638	Marionette	DEBUG	[4294967297] Frame script loaded
+1675683450643	Marionette	DEBUG	[4294967297] Frame script registered
+1675683451666	Marionette	DEBUG	[4294967297] Received DOM event beforeunload for about:blank
+1675683454247	Marionette	DEBUG	[4294967297] Received DOM event pagehide for about:blank
+1675683457013	Marionette	DEBUG	[4294967297] Received DOM event DOMContentLoaded for https://www.google.com/
+1675683457599	Marionette	DEBUG	[4294967297] Received DOM event pageshow for https://www.google.com/
+[Parent 7460, Gecko_IOThread] WARNING: file z:/build/build/src/ipc/chromium/src/base/process_util_win.cc, line 188
+[Parent 7460, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5800, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5800, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1675683467806	Marionette	INFO	Stopped listening on port 55664
+1675683565122	geckodriver	INFO	Listening on 127.0.0.1:55720
+1675683568172	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55721" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\DAFFOD~1\\AppData\\Local\\Temp\\rust_mozprofileBiJ4jL"
+1675683584714	Marionette	INFO	Listening on port 55726
+[Child 312, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 312, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1675683584755	Marionette	WARN	TLS certificate errors will be ignored for this session
+1675683584878	Marionette	DEBUG	[6442450945] Frame script loaded
+1675683584883	Marionette	DEBUG	[6442450945] Frame script registered
+1675683584933	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1675683586438	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1675683588522	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.google.com/
+1675683589215	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.google.com/
+[Parent 2568, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1675683623959	Marionette	INFO	Stopped listening on port 55726
+[GPU 3504, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1675684492830	geckodriver	INFO	Listening on 127.0.0.1:55828
+1675684495991	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55829" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\DAFFOD~1\\AppData\\Local\\Temp\\rust_mozprofileTY2YTs"
+[Child 11964, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11964, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1675684516325	Marionette	INFO	Listening on port 55835
+1675684516856	Marionette	WARN	TLS certificate errors will be ignored for this session
+1675684516979	Marionette	DEBUG	[6442450945] Frame script loaded
+1675684516985	Marionette	DEBUG	[6442450945] Frame script registered
+[Child 11296, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 9440, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10376, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10376, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1675684526825	Marionette	INFO	Stopped listening on port 55835
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1675684560056	geckodriver	INFO	Listening on 127.0.0.1:55878
+1675684563312	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55879" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\DAFFOD~1\\AppData\\Local\\Temp\\rust_mozprofileYmXt8f"
+1675684570723	Marionette	INFO	Listening on port 55884
+1675684570807	Marionette	WARN	TLS certificate errors will be ignored for this session
+1675684571168	Marionette	DEBUG	[6442450945] Frame script loaded
+1675684571235	Marionette	DEBUG	[6442450945] Frame script registered
+[Parent 9176, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 9176, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12956, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12956, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 9176, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1675684583813	Marionette	INFO	Stopped listening on port 55884
+[Parent 9176, Gecko_IOThread] WARNING: pipe error: 232: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 513
+1675684915324	geckodriver	INFO	Listening on 127.0.0.1:56042
+1675684918275	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56043" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\DAFFOD~1\\AppData\\Local\\Temp\\rust_mozprofilekvIacX"
+[Parent 1200, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13068, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13068, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1675684932290	Marionette	INFO	Listening on port 56048
+1675684933124	Marionette	WARN	TLS certificate errors will be ignored for this session
+1675684933293	Marionette	DEBUG	[4294967297] Frame script loaded
+1675684933462	Marionette	DEBUG	[4294967297] Frame script registered
+1675684937211	Marionette	DEBUG	[4294967297] Received DOM event beforeunload for about:blank
+1675684939589	Marionette	DEBUG	[4294967297] Received DOM event pagehide for about:blank
+1675684940873	Marionette	DEBUG	[4294967297] Received DOM event DOMContentLoaded for https://demo.opencart.com/
+1675684941848	Marionette	DEBUG	[4294967297] Received DOM event pageshow for https://demo.opencart.com/
+[Parent 1200, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12088, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 4480, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1675684960881	Marionette	INFO	Stopped listening on port 56048
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1675685412951	geckodriver	INFO	Listening on 127.0.0.1:56119
+1675685416048	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56120" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\DAFFOD~1\\AppData\\Local\\Temp\\rust_mozprofileiEhAGA"
+[Child 14300, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1675685438238	Marionette	INFO	Listening on port 56125
+1675685439347	Marionette	WARN	TLS certificate errors will be ignored for this session
+1675685439485	Marionette	DEBUG	[4294967297] Frame script loaded
+1675685439489	Marionette	DEBUG	[4294967297] Frame script registered
+1675685439681	Marionette	DEBUG	[4294967297] Received DOM event beforeunload for about:blank
+1675685442785	Marionette	DEBUG	[4294967297] Received DOM event pagehide for about:blank
+1675685444112	Marionette	DEBUG	[4294967297] Received DOM event DOMContentLoaded for https://demo.opencart.com/
+1675685444758	Marionette	DEBUG	[4294967297] Received DOM event pageshow for https://demo.opencart.com/
+1675685448182	Marionette	DEBUG	[4294967297] Received DOM event beforeunload for https://demo.opencart.com/
+1675685448193	Marionette	DEBUG	[4294967297] Received observer notification outer-window-destroyed for 4294967303
+1675685449192	Marionette	DEBUG	[4294967297] Received DOM event pagehide for https://demo.opencart.com/
+1675685449193	Marionette	DEBUG	[4294967297] Received DOM event unload for https://demo.opencart.com/
+1675685450532	Marionette	DEBUG	[4294967297] Received observer notification outer-window-destroyed for 4294967301
+1675685450870	Marionette	DEBUG	[4294967297] Received DOM event DOMContentLoaded for https://www.google.com/
+1675685451568	Marionette	DEBUG	[4294967297] Received DOM event pageshow for https://www.google.com/
+[Child 12400, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 6520, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 908, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 908, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1675685479864	Marionette	INFO	Stopped listening on port 56125
+[GPU 12788, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1675685494388	geckodriver	INFO	Listening on 127.0.0.1:56185
+1675685497474	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56186" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\DAFFOD~1\\AppData\\Local\\Temp\\rust_mozprofileaJDFWc"
+1675685504909	Marionette	INFO	Listening on port 56191
+1675685505417	Marionette	WARN	TLS certificate errors will be ignored for this session
+1675685505532	Marionette	DEBUG	[6442450945] Frame script loaded
+1675685505537	Marionette	DEBUG	[6442450945] Frame script registered
+1675685505585	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1675685507394	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1675685508304	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://demo.opencart.com/
+1675685508671	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://demo.opencart.com/
+1675685511759	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://demo.opencart.com/
+1675685511776	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450951
+1675685512612	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://demo.opencart.com/
+1675685512613	Marionette	DEBUG	[6442450945] Received DOM event unload for https://demo.opencart.com/
+1675685512881	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450949
+1675685513915	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.google.com/
+1675685514541	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.google.com/
+[Child 13144, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13144, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5608, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 8492, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1675685548705	Marionette	INFO	Stopped listening on port 56191
+[GPU 11560, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 8492, Gecko_IOThread] WARNING: pipe error: 232: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 513
+
+###!!! [Child][MessageChannel::SendAndWait] Error: (msgtype=0x4C0004,name=PImageBridge::Msg_WillClose) Channel error: cannot send/recv
+
+1675685596407	geckodriver	INFO	Listening on 127.0.0.1:56234
+1675685599474	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56235" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\DAFFOD~1\\AppData\\Local\\Temp\\rust_mozprofile3Ww2Y4"
+1675685610108	Marionette	INFO	Listening on port 56240
+1675685610185	Marionette	WARN	TLS certificate errors will be ignored for this session
+1675685610322	Marionette	DEBUG	[6442450945] Frame script loaded
+1675685610354	Marionette	DEBUG	[6442450945] Frame script registered
+1675685610432	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1675685613276	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1675685614114	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://demo.opencart.com/
+1675685614363	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://demo.opencart.com/
+1675685617728	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://demo.opencart.com/
+1675685617740	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450951
+1675685618598	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://demo.opencart.com/
+1675685618598	Marionette	DEBUG	[6442450945] Received DOM event unload for https://demo.opencart.com/
+1675685618854	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450949
+1675685619948	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.google.com/
+1675685620535	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.google.com/
+1675685620668	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.google.com/
+1675685620986	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.google.com/
+1675685621007	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.google.com/
+1675685621306	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://demo.opencart.com/
+1675685621486	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://demo.opencart.com/
+1675685623971	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://demo.opencart.com/
+1675685623984	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450957
+1675685624305	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://demo.opencart.com/
+1675685624307	Marionette	DEBUG	[6442450945] Received DOM event unload for https://demo.opencart.com/
+1675685624523	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450955
+1675685625936	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.google.com/
+1675685626372	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.google.com/
+[Parent 1068, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1675685634972	Marionette	INFO	Stopped listening on port 56240
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1675685783742	geckodriver	INFO	Listening on 127.0.0.1:56292
+1675685786757	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56293" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\DAFFOD~1\\AppData\\Local\\Temp\\rust_mozprofile9HzYsG"
+1675685794635	Marionette	INFO	Listening on port 56298
+1675685794880	Marionette	WARN	TLS certificate errors will be ignored for this session
+1675685795003	Marionette	DEBUG	[6442450945] Frame script loaded
+1675685795021	Marionette	DEBUG	[6442450945] Frame script registered
+1675685795181	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1675685797419	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1675685798443	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://demo.opencart.com/
+1675685798695	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://demo.opencart.com/
+1675685803871	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://demo.opencart.com/
+1675685805160	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://demo.opencart.com/
+1675685805161	Marionette	DEBUG	[6442450945] Received DOM event unload for https://demo.opencart.com/
+1675685806136	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450949
+1675685806459	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.google.com/
+1675685807357	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.google.com/
+1675685812396	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.google.com/
+1675685812824	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.google.com/
+1675685812858	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.google.com/
+1675685813103	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://demo.opencart.com/
+1675685813126	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://demo.opencart.com/
+1675685818171	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://demo.opencart.com/
+1675685818235	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://demo.opencart.com/
+1675685818236	Marionette	DEBUG	[6442450945] Received DOM event unload for https://demo.opencart.com/
+1675685819362	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.google.com/
+1675685819825	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.google.com/
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: /buckets/monitor/collections/changes/records is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:711:13
+
+[Parent 12908, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 12908, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5380, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5920, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5920, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1675688124019	Marionette	INFO	Stopped listening on port 56298
+1	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://demo.opencart.com/
+1675685902057	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://demo.opencart.com/
+1675685902058	Marionette	DEBUG	[6442450945] Received DOM event unload for https://demo.opencart.com/
+1675685903008	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450949
+1675685903298	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.google.com/
+1675685904075	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.google.com/
+1675685909104	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.google.com/
+1675685909451	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.google.com/
+1675685909492	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.google.com/
+1675685909736	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://demo.opencart.com/
+1675685909777	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://demo.opencart.com/
+1675685914815	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://demo.opencart.com/
+1675685914886	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://demo.opencart.com/
+1675685914888	Marionette	DEBUG	[6442450945] Received DOM event unload for https://demo.opencart.com/
+1675685916423	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.google.com/
+1675685916917	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.google.com/
+1675685921966	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.google.com/
+1675685922423	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.google.com/
+1675685922474	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.google.com/
+1675685923753	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.google.com/
+1675685924311	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.google.com/
+[Child 964, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11092, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1675686003653	Marionette	INFO	Stopped listening on port 56349
+[GPU 1716, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1675744292681	geckodriver	INFO	Listening on 127.0.0.1:64068
+1675744295754	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64069" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\DAFFOD~1\\AppData\\Local\\Temp\\rust_mozprofileJws0uE"
+[Child 5176, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 4828, Gecko_IOThread] WARNING: file z:/build/build/src/ipc/chromium/src/base/process_util_win.cc, line 188
+1675744323378	Marionette	INFO	Listening on port 64074
+1675744324134	Marionette	WARN	TLS certificate errors will be ignored for this session
+1675744324312	Marionette	DEBUG	[6442450945] Frame script loaded
+1675744324323	Marionette	DEBUG	[6442450945] Frame script registered
+1675744325646	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1675744328457	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1675744329817	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://demo.opencart.com/
+1675744330640	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://demo.opencart.com/
+1675744336241	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://demo.opencart.com/
+1675744338576	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://demo.opencart.com/
+1675744338577	Marionette	DEBUG	[6442450945] Received DOM event unload for https://demo.opencart.com/
+1675744340676	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450949
+1675744341107	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.google.com/
+1675744341743	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.google.com/
+1675744347387	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.google.com/
+1675744347964	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.google.com/
+1675744348015	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.google.com/
+1675744348336	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://demo.opencart.com/
+1675744348404	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://demo.opencart.com/
+1675744354743	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://demo.opencart.com/
+1675744354883	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://demo.opencart.com/
+1675744354883	Marionette	DEBUG	[6442450945] Received DOM event unload for https://demo.opencart.com/
+1675744356001	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.google.com/
+1675744356441	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.google.com/
+1675744361462	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.google.com/
+1675744361865	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.google.com/
+1675744361914	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.google.com/
+1675744363101	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.google.com/
+1675744363640	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.google.com/
+[Child 848, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1675744378113	Marionette	INFO	Stopped listening on port 64074
+[GPU 9048, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+

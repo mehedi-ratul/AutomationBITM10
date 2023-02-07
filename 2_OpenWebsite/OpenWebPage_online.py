@@ -1,9 +1,10 @@
+
 from selenium import webdriver
 
-def firefox_launch():
+def openwebpage_online():
+
     driver= webdriver.Firefox(executable_path="E:\\Python(BITM)\\geckodriver-v0.32.1-win64\\geckodriver.exe")
+    driver.get("https://www.google.com/")
     driver.close()
 
-
-firefox_launch()
-
+openwebpage_online()
