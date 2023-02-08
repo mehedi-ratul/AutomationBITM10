@@ -1,0 +1,329 @@
+1675763065038	geckodriver	INFO	Listening on 127.0.0.1:52694
+1675763068405	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52695" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\DAFFOD~1\\AppData\\Local\\Temp\\rust_mozprofileuUdxK5"
+[Child 4476, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1675763090552	Marionette	INFO	Listening on port 52700
+1675763091504	Marionette	WARN	TLS certificate errors will be ignored for this session
+1675763091862	Marionette	DEBUG	[4294967297] Frame script loaded
+1675763091985	Marionette	DEBUG	[4294967297] Frame script registered
+1675763093130	Marionette	DEBUG	[4294967297] Received DOM event beforeunload for about:blank
+1675763096521	Marionette	DEBUG	[4294967297] Received DOM event pagehide for about:blank
+1675763101599	Marionette	DEBUG	[4294967297] Received DOM event DOMContentLoaded for https://demo.guru99.com/v4/index.php
+JavaScript error: https://static.criteo.net/js/ld/publishertag.ids.js, line 1: TypeError: crypto.randomUUID is not a function
+1675763113194	Marionette	DEBUG	[4294967297] Received observer notification outer-window-destroyed for 4294967334
+1675763113326	Marionette	DEBUG	[4294967297] Received DOM event pageshow for https://demo.guru99.com/v4/index.php
+[Parent 13920, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 13920, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8508, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1675763399692	Marionette	INFO	Stopped listening on port 52700
+[GPU 13472, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+icate errors will be ignored for this session
+1675763367172	Marionette	DEBUG	[6442450945] Frame script loaded
+1675763367176	Marionette	DEBUG	[6442450945] Frame script registered
+1675763368172	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1675763370022	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1675763375856	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://demo.guru99.com/v4/index.php
+JavaScript error: https://static.criteo.net/js/ld/publishertag.ids.js, line 1: TypeError: crypto.randomUUID is not a function
+1675763385424	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450975
+1675763386575	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://demo.guru99.com/v4/index.php
+[Child 3724, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 4276, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 3724, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 4276, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6764, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6764, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1675763393740	Marionette	INFO	Stopped listening on port 52906
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1675763766065	geckodriver	INFO	Listening on 127.0.0.1:53217
+1675763769376	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53218" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\DAFFOD~1\\AppData\\Local\\Temp\\rust_mozprofileTeoyDD"
+1675763784651	Marionette	INFO	Listening on port 53224
+1675763785952	Marionette	WARN	TLS certificate errors will be ignored for this session
+1675763786221	Marionette	DEBUG	[6442450945] Frame script loaded
+1675763786688	Marionette	DEBUG	[6442450945] Frame script registered
+1675763789447	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1675763791199	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1675763794129	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://demo.guru99.com/v4/index.php
+JavaScript error: https://static.criteo.net/js/ld/publishertag.ids.js, line 1: TypeError: crypto.randomUUID is not a function
+1675763802023	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://demo.guru99.com/v4/index.php
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: /buckets/monitor/collections/changes/records is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:711:13
+
+1675766812574	geckodriver	INFO	Listening on 127.0.0.1:54310
+1675766815846	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54311" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\DAFFOD~1\\AppData\\Local\\Temp\\rust_mozprofileMyDGuk"
+[Child 5852, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 8580, Gecko_IOThread] WARNING: file z:/build/build/src/ipc/chromium/src/base/process_util_win.cc, line 188
+1675766861881	Marionette	INFO	Listening on port 54318
+[Parent 8580, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12656, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1675766930013	Marionette	INFO	Stopped listening on port 54318
+[GPU 5356, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+guru99.com/v4/index.php
+1675766887776	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://demo.guru99.com/v4/index.php
+1675766888705	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://demo.guru99.com/v4/index.php
+1675766892134	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://demo.guru99.com/v4/index.php
+1675766892141	Marionette	DEBUG	[6442450945] Received DOM event unload for https://demo.guru99.com/v4/index.php
+1675766892342	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://demo.guru99.com/v4/index.php
+1675766892351	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://demo.guru99.com/v4/index.php
+1675766892431	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://demo.guru99.com/v4/index.php
+1675766892485	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450961
+1675766892487	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450949
+1675766892487	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450950
+1675766892488	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450953
+1675766892489	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450955
+1675766892490	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450956
+1675766892513	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450957
+1675766892514	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450963
+1675766892709	Marionette	DEBUG	[6442450945] Received DOM event unload for https://demo.guru99.com/v4/index.php
+1675766894002	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://demo.guru99.com/v4/manager/Managerhomepage.php
+1675766899053	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://demo.guru99.com/v4/manager/Managerhomepage.php
+[Child 3776, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 3776, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13240, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13240, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1675766935593	Marionette	INFO	Stopped listening on port 54345
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1675767603606	geckodriver	INFO	Listening on 127.0.0.1:54833
+1675767606505	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54834" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\DAFFOD~1\\AppData\\Local\\Temp\\rust_mozprofileImjgZ4"
+1675767622186	Marionette	INFO	Listening on port 54845
+[Child 8224, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8224, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1675767623156	Marionette	WARN	TLS certificate errors will be ignored for this session
+1675767630122	Marionette	DEBUG	[6442450945] Frame script loaded
+1675767630126	Marionette	DEBUG	[6442450945] Frame script registered
+1675767630336	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1675767633249	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1675767636407	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://demo.guru99.com/v4/index.php
+JavaScript error: https://static.criteo.net/js/ld/publishertag.ids.js, line 1: TypeError: crypto.randomUUID is not a function
+1675767647221	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450981
+1675767647279	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://demo.guru99.com/v4/index.php
+1675767648350	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://demo.guru99.com/v4/index.php
+1675767648462	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450984
+1675767648475	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450974
+1675767648777	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://demo.guru99.com/v4/index.php
+1675767648781	Marionette	DEBUG	[6442450945] Received DOM event unload for https://demo.guru99.com/v4/index.php
+1675767648838	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://demo.guru99.com/v4/index.php
+1675767648845	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://demo.guru99.com/v4/index.php
+1675767648885	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://demo.guru99.com/v4/index.php
+1675767648905	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450958
+1675767648910	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450949
+1675767648912	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450950
+1675767648913	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450953
+1675767648914	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450955
+1675767648916	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450956
+1675767648917	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450957
+1675767648918	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450963
+1675767648919	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450973
+1675767648920	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450986
+1675767648924	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450972
+1675767648925	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450975
+1675767648926	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450970
+1675767648927	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450968
+1675767648928	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450966
+1675767649309	Marionette	DEBUG	[6442450945] Received DOM event unload for https://demo.guru99.com/v4/index.php
+1675767650475	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://demo.guru99.com/v4/manager/Managerhomepage.php
+1675767653853	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://demo.guru99.com/v4/manager/Managerhomepage.php
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: /buckets/monitor/collections/changes/records is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:711:13
+
+[Parent 9412, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 9412, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 2816, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+JavaScript error: jar:file:///C:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/nsAsyncShutdown.js, line 114: Error: We have already registered a distinct blocker with the same name: Crash Reporter: blocking on minidumpgeneration.
+[Child 7988, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7988, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 9412, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x17008D,name=PBrowser::Msg_UpdateNativeWindowHandle) Closed channel: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x170080,name=PBrowser::Msg_Destroy) Closed channel: cannot send/recv
+
+[Child 1188, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1188, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x170001,name=PBrowser::Msg_AsyncMessage) Closed channel: cannot send/recv
+
+JavaScript error: chrome://browser/content/tab-content.js, line 151: NS_ERROR_UNEXPECTED: 
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x170001,name=PBrowser::Msg_AsyncMessage) Closed channel: cannot send/recv
+
+JavaScript error: chrome://browser/content/content.js, line 353: NS_ERROR_UNEXPECTED: 
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x17002C,name=PBrowser::Msg_SetInputContext) Closed channel: cannot send/recv
+
+61
+1675767811084	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450949
+1675767811086	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450950
+1675767811089	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450953
+1675767811090	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450955
+1675767811094	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450956
+1675767811094	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450957
+1675767811096	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450962
+1675767811097	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450972
+1675767811098	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450983
+1675767811098	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450985
+1675767811100	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450971
+1675767811101	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450975
+1675767811101	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450976
+1675767811103	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450969
+1675767811103	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450967
+1675767811104	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450965
+1675767811424	Marionette	DEBUG	[6442450945] Received DOM event unload for https://demo.guru99.com/v4/index.php
+1675767812616	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://demo.guru99.com/v4/manager/Managerhomepage.php
+1675767815616	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://demo.guru99.com/v4/manager/Managerhomepage.php
+[Child 12076, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12076, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 11704, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1675767824837	Marionette	INFO	Stopped listening on port 55020
+[GPU 3428, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1675767836136	geckodriver	INFO	Listening on 127.0.0.1:55120
+1675767839569	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55121" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\DAFFOD~1\\AppData\\Local\\Temp\\rust_mozprofilegHnFhk"
+1675767853717	Marionette	INFO	Listening on port 55126
+[Child 9020, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9020, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1675767853973	Marionette	WARN	TLS certificate errors will be ignored for this session
+1675767856041	Marionette	DEBUG	[6442450945] Frame script loaded
+1675767856103	Marionette	DEBUG	[6442450945] Frame script registered
+1675767856642	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1675767857912	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1675767860768	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://demo.guru99.com/v4/index.php
+JavaScript error: https://static.criteo.net/js/ld/publishertag.ids.js, line 1: TypeError: crypto.randomUUID is not a function
+1675767869993	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450982
+1675767870247	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://demo.guru99.com/v4/index.php
+1675767870779	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://demo.guru99.com/v4/index.php
+1675767870891	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450974
+1675767872050	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://demo.guru99.com/v4/index.php
+1675767872058	Marionette	DEBUG	[6442450945] Received DOM event unload for https://demo.guru99.com/v4/index.php
+1675767872132	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://demo.guru99.com/v4/index.php
+1675767872139	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://demo.guru99.com/v4/index.php
+1675767872180	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://demo.guru99.com/v4/index.php
+1675767872194	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450958
+1675767872195	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450949
+1675767872197	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450950
+1675767872199	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450953
+1675767872200	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450955
+1675767872201	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450956
+1675767872203	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450957
+1675767872204	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450963
+1675767872204	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450973
+1675767872206	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450984
+1675767872207	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450986
+1675767872208	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450972
+1675767872209	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450975
+1675767872210	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450970
+1675767872211	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450968
+1675767872212	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450966
+1675767872580	Marionette	DEBUG	[6442450945] Received DOM event unload for https://demo.guru99.com/v4/index.php
+1675767873128	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://demo.guru99.com/v4/manager/Managerhomepage.php
+1675767876087	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://demo.guru99.com/v4/manager/Managerhomepage.php
+[Parent 736, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1675767880243	Marionette	INFO	Stopped listening on port 55126
+[GPU 6256, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1675853457298	geckodriver	INFO	Listening on 127.0.0.1:53585
+1675853461936	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53586" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\DAFFOD~1\\AppData\\Local\\Temp\\rust_mozprofilep1dlWx"
+[Parent 652, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8932, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 652, Gecko_IOThread] WARNING: file z:/build/build/src/ipc/chromium/src/base/process_util_win.cc, line 188
+console.error: "Could not write session state file " (new Error("_initWorker called too early! Please read the session file from disk first.", "resource:///modules/sessionstore/SessionFile.jsm", 335)) "_initWorker/<@resource:///modules/sessionstore/SessionFile.jsm:335:15\n_initWorker@resource:///modules/sessionstore/SessionFile.jsm:328:12\n_postToWorker@resource:///modules/sessionstore/SessionFile.jsm:352:11\nwrite@resource:///modules/sessionstore/SessionFile.jsm:392:19\nwrite@resource:///modules/sessionstore/SessionFile.jsm:64:12\n_writeState@resource:///modules/sessionstore/SessionSaver.jsm:357:12\n_saveState@resource:///modules/sessionstore/SessionSaver.jsm:295:12\n_saveStateAsync@resource:///modules/sessionstore/SessionSaver.jsm:341:5\nsaveStateAsyncWhenIdle@resource:///modules/sessionstore/SessionSaver.jsm:192:9\n"
+1675853493372	Marionette	INFO	Listening on port 53612
+1675853494648	Marionette	WARN	TLS certificate errors will be ignored for this session
+1675853494866	Marionette	DEBUG	[4294967297] Frame script loaded
+1675853495061	Marionette	DEBUG	[4294967297] Frame script registered
+1675853497276	Marionette	DEBUG	[4294967297] Received DOM event beforeunload for about:blank
+1675853500657	Marionette	DEBUG	[4294967297] Received DOM event pagehide for about:blank
+1675853505406	Marionette	DEBUG	[4294967297] Received DOM event DOMContentLoaded for https://demo.guru99.com/v4/index.php
+JavaScript error: https://static.criteo.net/js/ld/publishertag.ids.js, line 1: TypeError: crypto.randomUUID is not a function
+1675853518087	Marionette	DEBUG	[4294967297] Received DOM event pageshow for https://demo.guru99.com/v4/index.php
+1675853519921	Marionette	DEBUG	[4294967297] Received DOM event beforeunload for https://demo.guru99.com/v4/index.php
+1675853520210	Marionette	DEBUG	[4294967297] Received observer notification outer-window-destroyed for 4294967329
+1675853520473	Marionette	DEBUG	[4294967297] Received DOM event pagehide for https://demo.guru99.com/v4/index.php
+1675853520478	Marionette	DEBUG	[4294967297] Received DOM event unload for https://demo.guru99.com/v4/index.php
+1675853520781	Marionette	DEBUG	[4294967297] Received DOM event beforeunload for https://demo.guru99.com/v4/index.php
+1675853520789	Marionette	DEBUG	[4294967297] Received DOM event pageshow for https://demo.guru99.com/v4/index.php
+1675853520832	Marionette	DEBUG	[4294967297] Received observer notification outer-window-destroyed for 4294967343
+1675853520848	Marionette	DEBUG	[4294967297] Received DOM event DOMContentLoaded for https://demo.guru99.com/v4/index.php
+1675853520862	Marionette	DEBUG	[4294967297] Received observer notification outer-window-destroyed for 4294967313
+1675853520862	Marionette	DEBUG	[4294967297] Received observer notification outer-window-destroyed for 4294967301
+1675853520863	Marionette	DEBUG	[4294967297] Received observer notification outer-window-destroyed for 4294967302
+1675853520864	Marionette	DEBUG	[4294967297] Received observer notification outer-window-destroyed for 4294967303
+1675853520865	Marionette	DEBUG	[4294967297] Received observer notification outer-window-destroyed for 4294967307
+1675853520865	Marionette	DEBUG	[4294967297] Received observer notification outer-window-destroyed for 4294967308
+1675853520866	Marionette	DEBUG	[4294967297] Received observer notification outer-window-destroyed for 4294967309
+1675853520893	Marionette	DEBUG	[4294967297] Received observer notification outer-window-destroyed for 4294967314
+1675853520897	Marionette	DEBUG	[4294967297] Received observer notification outer-window-destroyed for 4294967327
+1675853520897	Marionette	DEBUG	[4294967297] Received observer notification outer-window-destroyed for 4294967337
+1675853520898	Marionette	DEBUG	[4294967297] Received observer notification outer-window-destroyed for 4294967339
+1675853520898	Marionette	DEBUG	[4294967297] Received observer notification outer-window-destroyed for 4294967324
+1675853520899	Marionette	DEBUG	[4294967297] Received observer notification outer-window-destroyed for 4294967330
+1675853520900	Marionette	DEBUG	[4294967297] Received observer notification outer-window-destroyed for 4294967322
+1675853520900	Marionette	DEBUG	[4294967297] Received observer notification outer-window-destroyed for 4294967319
+1675853520901	Marionette	DEBUG	[4294967297] Received observer notification outer-window-destroyed for 4294967317
+1675853521201	Marionette	DEBUG	[4294967297] Received DOM event unload for https://demo.guru99.com/v4/index.php
+1675853521967	Marionette	DEBUG	[4294967297] Received DOM event DOMContentLoaded for https://demo.guru99.com/v4/manager/Managerhomepage.php
+1675853525117	Marionette	DEBUG	[4294967297] Received DOM event pageshow for https://demo.guru99.com/v4/manager/Managerhomepage.php
+[Parent 652, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8552, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6840, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6840, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8248, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8248, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1675853949741	Marionette	INFO	Stopped listening on port 53612
+[GPU 12292, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+onette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1675853564979	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://demo.guru99.com/v4/index.php
+JavaScript error: https://static.criteo.net/js/ld/publishertag.ids.js, line 1: TypeError: crypto.randomUUID is not a function
+1675853575461	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://demo.guru99.com/v4/index.php
+1675853576817	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://demo.guru99.com/v4/index.php
+1675853577769	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://demo.guru99.com/v4/index.php
+1675853577779	Marionette	DEBUG	[6442450945] Received DOM event unload for https://demo.guru99.com/v4/index.php
+1675853577969	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450961
+1675853577970	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450949
+1675853577971	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450951
+1675853577971	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450952
+1675853577973	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450955
+1675853577974	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450956
+1675853577977	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450957
+1675853577978	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450962
+1675853577979	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450981
+1675853577980	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450983
+1675853577981	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450985
+1675853577982	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450972
+1675853577982	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450979
+1675853577983	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450974
+1675853577983	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450975
+1675853577984	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450970
+1675853577985	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450967
+1675853577985	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450964
+[Child 5084, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5084, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7776, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7776, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1675853606569	Marionette	INFO	Stopped listening on port 53776
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
