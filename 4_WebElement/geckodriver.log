@@ -1,0 +1,449 @@
+1675922236816	geckodriver	INFO	Listening on 127.0.0.1:57672
+1675922239901	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57673" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\DAFFOD~1\\AppData\\Local\\Temp\\rust_mozprofileK1faUp"
+1675922245983	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1675922246456	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1675922246508	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1675922246508	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1675922246508	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: "Could not write session state file " (new Error("_initWorker called too early! Please read the session file from disk first.", "resource:///modules/sessionstore/SessionFile.jsm", 375)) "_initWorker/<@resource:///modules/sessionstore/SessionFile.jsm:375:15\n_initWorker@resource:///modules/sessionstore/SessionFile.jsm:368:12\n_postToWorker@resource:///modules/sessionstore/SessionFile.jsm:410:16\nwrite@resource:///modules/sessionstore/SessionFile.jsm:448:24\nwrite@resource:///modules/sessionstore/SessionFile.jsm:75:32\n_writeState@resource:///modules/sessionstore/SessionSaver.jsm:360:24\n_saveState@resource:///modules/sessionstore/SessionSaver.jsm:294:17\n_saveStateAsync@resource:///modules/sessionstore/SessionSaver.jsm:344:10\nsaveStateAsyncWhenIdle@resource:///modules/sessionstore/SessionSaver.jsm:191:14\ncallback@resource://gre/modules/Timer.jsm:125:16\n"
+JavaScript error: chrome://remote/content/RemoteAgent.jsm, line 36: Error: Remote agent is disabled by preference
+1675922283024	Marionette	INFO	Listening on port 57679
+DevTools listening on true
+1675922283558	Marionette	WARN	TLS certificate errors will be ignored for this session
+1675922372505	Marionette	INFO	Stopped listening on port 57679
+1675922603254	geckodriver	INFO	Listening on 127.0.0.1:57919
+1675922606443	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57920" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\DAFFOD~1\\AppData\\Local\\Temp\\rust_mozprofile4j5x5j"
+1675922609510	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1675922610221	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1675922610222	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1675922610222	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1675922610223	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: chrome://remote/content/RemoteAgent.jsm, line 36: Error: Remote agent is disabled by preference
+1675922619119	Marionette	INFO	Listening on port 57926
+DevTools listening on true
+1675922619465	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 8408, Gecko_IOThread] WARNING: file z:/task_1579288126/build/src/ipc/chromium/src/base/process_util_win.cc, line 160
+[Parent 8408, Gecko_IOThread] WARNING: file z:/task_1579288126/build/src/ipc/chromium/src/base/process_util_win.cc, line 160
+[Parent 8408, Gecko_IOThread] WARNING: file z:/task_1579288126/build/src/ipc/chromium/src/base/process_util_win.cc, line 160
+[Parent 8408, Gecko_IOThread] WARNING: file z:/task_1579288126/build/src/ipc/chromium/src/base/process_util_win.cc, line 160
+1675922684601	Marionette	INFO	Stopped listening on port 57926
+1675923123906	geckodriver	INFO	Listening on 127.0.0.1:58222
+1675923128145	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58223" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\DAFFOD~1\\AppData\\Local\\Temp\\rust_mozprofileEsLEXY"
+1675923131495	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1675923132311	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1675923132312	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1675923132312	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1675923132313	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: chrome://remote/content/RemoteAgent.jsm, line 36: Error: Remote agent is disabled by preference
+1675923154740	Marionette	INFO	Listening on port 58232
+DevTools listening on true
+1675923155459	Marionette	WARN	TLS certificate errors will be ignored for this session
+1675923180851	Marionette	INFO	Stopped listening on port 58232
+1675923198553	geckodriver	INFO	Listening on 127.0.0.1:58320
+1675923201692	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58321" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\DAFFOD~1\\AppData\\Local\\Temp\\rust_mozprofile7vqzcf"
+1675923204199	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1675923204555	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1675923204556	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1675923204556	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1675923204557	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: chrome://remote/content/RemoteAgent.jsm, line 36: Error: Remote agent is disabled by preference
+1675923210478	Marionette	INFO	Listening on port 58327
+DevTools listening on true
+1675923210877	Marionette	WARN	TLS certificate errors will be ignored for this session
+1675923374893	Marionette	INFO	Stopped listening on port 58327
+1675927735370	geckodriver	INFO	Listening on 127.0.0.1:60748
+1675927738590	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60749" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\DAFFOD~1\\AppData\\Local\\Temp\\rust_mozprofilef3jMsC"
+1675927742963	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1675927743462	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1675927743462	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1675927743463	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1675927743463	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: chrome://remote/content/RemoteAgent.jsm, line 36: Error: Remote agent is disabled by preference
+1675927760282	Marionette	INFO	Listening on port 60755
+DevTools listening on true
+1675927760916	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://static.criteo.net/js/ld/publishertag.ids.js, line 1: TypeError: crypto.randomUUID is not a function
+1675928348498	Marionette	INFO	Stopped listening on port 60755
+5928167584	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60897" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\DAFFOD~1\\AppData\\Local\\Temp\\rust_mozprofilePskECo"
+1675928170991	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1675928171635	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1675928171636	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1675928171637	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1675928171637	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: "Could not write session state file " (new Error("_initWorker called too early! Please read the session file from disk first.", "resource:///modules/sessionstore/SessionFile.jsm", 375)) "_initWorker/<@resource:///modules/sessionstore/SessionFile.jsm:375:15\n_initWorker@resource:///modules/sessionstore/SessionFile.jsm:368:12\n_postToWorker@resource:///modules/sessionstore/SessionFile.jsm:410:16\nwrite@resource:///modules/sessionstore/SessionFile.jsm:448:24\nwrite@resource:///modules/sessionstore/SessionFile.jsm:75:32\n_writeState@resource:///modules/sessionstore/SessionSaver.jsm:360:24\n_saveState@resource:///modules/sessionstore/SessionSaver.jsm:294:17\n_saveStateAsync@resource:///modules/sessionstore/SessionSaver.jsm:344:10\nsaveStateAsyncWhenIdle@resource:///modules/sessionstore/SessionSaver.jsm:191:14\ncallback@resource://gre/modules/Timer.jsm:125:16\n"
+JavaScript error: chrome://remote/content/RemoteAgent.jsm, line 36: Error: Remote agent is disabled by preference
+1675928190005	Marionette	INFO	Listening on port 60902
+DevTools listening on true
+1675928190414	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://static.criteo.net/js/ld/publishertag.ids.js, line 1: TypeError: crypto.randomUUID is not a function
+1675928224565	Marionette	INFO	Stopped listening on port 60902
+1675936315644	geckodriver	INFO	Listening on 127.0.0.1:62216
+1675936318886	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62217" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\DAFFOD~1\\AppData\\Local\\Temp\\rust_mozprofile2NebqA"
+1675936323565	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1675936324034	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1675936324034	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1675936324035	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1675936324035	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: chrome://remote/content/RemoteAgent.jsm, line 36: Error: Remote agent is disabled by preference
+1675936343344	Marionette	INFO	Listening on port 62222
+DevTools listening on true
+1675936343627	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://static.criteo.net/js/ld/publishertag.ids.js, line 1: TypeError: crypto.randomUUID is not a function
+1675936358324	Marionette	INFO	Stopped listening on port 62222
+1675940195240	geckodriver	INFO	Listening on 127.0.0.1:63884
+1675940198429	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63885" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\DAFFOD~1\\AppData\\Local\\Temp\\rust_mozprofile3dXxFV"
+1675940204152	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1675940204791	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1675940204791	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1675940204792	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1675940204792	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: chrome://remote/content/RemoteAgent.jsm, line 36: Error: Remote agent is disabled by preference
+1675940227079	Marionette	INFO	Listening on port 63890
+DevTools listening on true
+1675940227574	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://static.criteo.net/js/ld/publishertag.ids.js, line 1: TypeError: crypto.randomUUID is not a function
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PMessagePort::Msg_PostMessages Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+[Parent 13496, Gecko_IOThread] WARNING: file z:/task_1579288126/build/src/ipc/chromium/src/base/process_util_win.cc, line 160
+[Parent 13496, Gecko_IOThread] WARNING: file z:/task_1579288126/build/src/ipc/chromium/src/base/process_util_win.cc, line 160
+[Parent 13496, Gecko_IOThread] WARNING: file z:/task_1579288126/build/src/ipc/chromium/src/base/process_util_win.cc, line 160
+1675940276243	Marionette	INFO	Stopped listening on port 63890
+1675940309576	geckodriver	INFO	Listening on 127.0.0.1:64020
+1675940312702	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64021" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\DAFFOD~1\\AppData\\Local\\Temp\\rust_mozprofilexPwtv9"
+1675940316758	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1675940317325	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1675940317325	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1675940317326	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1675940317326	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: chrome://remote/content/RemoteAgent.jsm, line 36: Error: Remote agent is disabled by preference
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1675940346320	Marionette	INFO	Listening on port 64026
+DevTools listening on true
+1675940346811	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://static.criteo.net/js/ld/publishertag.ids.js, line 1: TypeError: crypto.randomUUID is not a function
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PMessagePort::Msg_PostMessages Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1675942309526	Marionette	INFO	Stopped listening on port 64026
+5942190435	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64263" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\DAFFOD~1\\AppData\\Local\\Temp\\rust_mozprofileW3fxWP"
+1675942194351	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1675942194964	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1675942194964	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1675942194965	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1675942194966	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: chrome://remote/content/RemoteAgent.jsm, line 36: Error: Remote agent is disabled by preference
+1675942214834	Marionette	INFO	Listening on port 64269
+DevTools listening on true
+1675942215552	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://static.criteo.net/js/ld/publishertag.ids.js, line 1: TypeError: crypto.randomUUID is not a function
+1675942287198	Marionette	INFO	Stopped listening on port 64269
+1675943232530	geckodriver	INFO	Listening on 127.0.0.1:64526
+1675943235765	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64527" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\DAFFOD~1\\AppData\\Local\\Temp\\rust_mozprofile3D1HGq"
+1675943241090	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1675943241712	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1675943241712	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1675943241713	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1675943241714	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: chrome://remote/content/RemoteAgent.jsm, line 36: Error: Remote agent is disabled by preference
+1675943260444	Marionette	INFO	Listening on port 64532
+DevTools listening on true
+1675943260648	Marionette	WARN	TLS certificate errors will be ignored for this session
+1675943309650	Marionette	INFO	Stopped listening on port 64532
+1675943600664	geckodriver	INFO	Listening on 127.0.0.1:64745
+1675943603790	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64746" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\DAFFOD~1\\AppData\\Local\\Temp\\rust_mozprofilenTBrfE"
+1675943606939	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1675943607707	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1675943607707	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1675943607708	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1675943607708	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: "Could not write session state file " (new Error("_initWorker called too early! Please read the session file from disk first.", "resource:///modules/sessionstore/SessionFile.jsm", 375)) "_initWorker/<@resource:///modules/sessionstore/SessionFile.jsm:375:15\n_initWorker@resource:///modules/sessionstore/SessionFile.jsm:368:12\n_postToWorker@resource:///modules/sessionstore/SessionFile.jsm:410:16\nwrite@resource:///modules/sessionstore/SessionFile.jsm:448:24\nwrite@resource:///modules/sessionstore/SessionFile.jsm:75:32\n_writeState@resource:///modules/sessionstore/SessionSaver.jsm:360:24\n_saveState@resource:///modules/sessionstore/SessionSaver.jsm:294:17\n_saveStateAsync@resource:///modules/sessionstore/SessionSaver.jsm:344:10\nsaveStateAsyncWhenIdle@resource:///modules/sessionstore/SessionSaver.jsm:191:14\ncallback@resource://gre/modules/Timer.jsm:125:16\n"
+JavaScript error: chrome://remote/content/RemoteAgent.jsm, line 36: Error: Remote agent is disabled by preference
+1675943633607	Marionette	INFO	Listening on port 64752
+DevTools listening on true
+1675943633929	Marionette	WARN	TLS certificate errors will be ignored for this session
+1675943660544	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:237:64
+openRemotePrompt@resource://gre/modules/Prompter.jsm:619:17
+openPrompt@resource://gre/modules/Prompter.jsm:663:25
+alert@resource://gre/modules/Prompter.jsm:737:10
+jsAlert@https://the-internet.herokuapp.com/javascript_alerts:38:10
+onclick@https://the-internet.herokuapp.com/javascript_alerts:1:1
+event.synthesizeMouseAtPoint@chrome://marionette/content/event.js:213:14
+webdriverClickElement@chrome://marionette/content/interaction.js:183:11
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x37006B,name=PContent::Msg_SuspendInputEventQueue) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x370069,name=PContent::Msg_FlushInputEventQueue) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x37006A,name=PContent::Msg_ResumeInputEventQueue) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x37004B,name=PContent::Msg_Shutdown) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x370043,name=PContent::Msg_NotifyProcessPriorityChanged) Channel error: cannot send/recv
+
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+console.error: (new Error("SessionFile is closed", "resource:///modules/sessionstore/SessionFile.jsm", 433))
+1675946460309	Marionette	INFO	Stopped listening on port 64752
+ource://pdf.js/
+1675944853577	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: chrome://remote/content/RemoteAgent.jsm, line 36: Error: Remote agent is disabled by preference
+1675944876853	Marionette	INFO	Listening on port 64935
+DevTools listening on true
+1675944877535	Marionette	WARN	TLS certificate errors will be ignored for this session
+1675944884500	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:237:64
+openRemotePrompt@resource://gre/modules/Prompter.jsm:619:17
+openPrompt@resource://gre/modules/Prompter.jsm:663:25
+alert@resource://gre/modules/Prompter.jsm:737:10
+jsAlert@https://the-internet.herokuapp.com/javascript_alerts:38:10
+onclick@https://the-internet.herokuapp.com/javascript_alerts:1:1
+event.synthesizeMouseAtPoint@chrome://marionette/content/event.js:213:14
+webdriverClickElement@chrome://marionette/content/interaction.js:183:11
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x37006B,name=PContent::Msg_SuspendInputEventQueue) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x370069,name=PContent::Msg_FlushInputEventQueue) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x37006A,name=PContent::Msg_ResumeInputEventQueue) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x37004B,name=PContent::Msg_Shutdown) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x370043,name=PContent::Msg_NotifyProcessPriorityChanged) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x37006B,name=PContent::Msg_SuspendInputEventQueue) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x370069,name=PContent::Msg_FlushInputEventQueue) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x37006A,name=PContent::Msg_ResumeInputEventQueue) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x37004B,name=PContent::Msg_Shutdown) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x370043,name=PContent::Msg_NotifyProcessPriorityChanged) Channel error: cannot send/recv
+
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+console.error: (new Error("SessionFile is closed", "resource:///modules/sessionstore/SessionFile.jsm", 433))
+1675946454149	Marionette	INFO	Stopped listening on port 64935
+kuapp.com/javascript_alerts:1:1
+event.synthesizeMouseAtPoint@chrome://marionette/content/event.js:213:14
+webdriverClickElement@chrome://marionette/content/interaction.js:183:11
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x370043,name=PContent::Msg_NotifyProcessPriorityChanged) Channel error: cannot send/recv
+
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1845: TypeError: subject.QueryInterface is not a function
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1845: TypeError: subject.QueryInterface is not a function
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1845: TypeError: subject.QueryInterface is not a function
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1845: TypeError: subject.QueryInterface is not a function
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+console.error: (new Error("SessionFile is closed", "resource:///modules/sessionstore/SessionFile.jsm", 433))
+1675946448211	Marionette	INFO	Stopped listening on port 65083
+oading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: chrome://remote/content/RemoteAgent.jsm, line 36: Error: Remote agent is disabled by preference
+1675945382693	Marionette	INFO	Listening on port 65280
+DevTools listening on true
+1675945383494	Marionette	WARN	TLS certificate errors will be ignored for this session
+1675945407555	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:237:64
+openRemotePrompt@resource://gre/modules/Prompter.jsm:619:17
+openPrompt@resource://gre/modules/Prompter.jsm:663:25
+alert@resource://gre/modules/Prompter.jsm:737:10
+jsAlert@https://the-internet.herokuapp.com/javascript_alerts:38:10
+onclick@https://the-internet.herokuapp.com/javascript_alerts:1:1
+event.synthesizeMouseAtPoint@chrome://marionette/content/event.js:213:14
+webdriverClickElement@chrome://marionette/content/interaction.js:183:11
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x37006B,name=PContent::Msg_SuspendInputEventQueue) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x370069,name=PContent::Msg_FlushInputEventQueue) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x37006A,name=PContent::Msg_ResumeInputEventQueue) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x37004B,name=PContent::Msg_Shutdown) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x370043,name=PContent::Msg_NotifyProcessPriorityChanged) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x37006B,name=PContent::Msg_SuspendInputEventQueue) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x370069,name=PContent::Msg_FlushInputEventQueue) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x37006A,name=PContent::Msg_ResumeInputEventQueue) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x37004B,name=PContent::Msg_Shutdown) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x370043,name=PContent::Msg_NotifyProcessPriorityChanged) Channel error: cannot send/recv
+
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x370110,name=PContent::Msg_AccumulateChildKeyedHistograms) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x370114,name=PContent::Msg_RecordDiscardedData) Channel closing: too late to send/recv, messages will be lost
+
+1675946446398	Marionette	INFO	Stopped listening on port 65280
+1675947855249	geckodriver	INFO	Listening on 127.0.0.1:50723
+1675947858342	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50724" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\DAFFOD~1\\AppData\\Local\\Temp\\rust_mozprofileWwT2Mn"
+1675947861892	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1675947862714	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1675947862714	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1675947862715	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1675947862715	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: "Could not write session state file " (new Error("_initWorker called too early! Please read the session file from disk first.", "resource:///modules/sessionstore/SessionFile.jsm", 375)) "_initWorker/<@resource:///modules/sessionstore/SessionFile.jsm:375:15\n_initWorker@resource:///modules/sessionstore/SessionFile.jsm:368:12\n_postToWorker@resource:///modules/sessionstore/SessionFile.jsm:410:16\nwrite@resource:///modules/sessionstore/SessionFile.jsm:448:24\nwrite@resource:///modules/sessionstore/SessionFile.jsm:75:32\n_writeState@resource:///modules/sessionstore/SessionSaver.jsm:360:24\n_saveState@resource:///modules/sessionstore/SessionSaver.jsm:294:17\n_saveStateAsync@resource:///modules/sessionstore/SessionSaver.jsm:344:10\nsaveStateAsyncWhenIdle@resource:///modules/sessionstore/SessionSaver.jsm:191:14\ncallback@resource://gre/modules/Timer.jsm:125:16\n"
+[Parent 13112, Gecko_IOThread] WARNING: file z:/task_1579288126/build/src/ipc/chromium/src/base/process_util_win.cc, line 160
+JavaScript error: chrome://remote/content/RemoteAgent.jsm, line 36: Error: Remote agent is disabled by preference
+1675947881531	Marionette	INFO	Listening on port 50729
+DevTools listening on true
+1675947881956	Marionette	WARN	TLS certificate errors will be ignored for this session
+1675947890962	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:237:64
+openRemotePrompt@resource://gre/modules/Prompter.jsm:619:17
+openPrompt@resource://gre/modules/Prompter.jsm:663:25
+alert@resource://gre/modules/Prompter.jsm:737:10
+jsAlert@https://the-internet.herokuapp.com/javascript_alerts:38:10
+onclick@https://the-internet.herokuapp.com/javascript_alerts:1:1
+event.synthesizeMouseAtPoint@chrome://marionette/content/event.js:213:14
+webdriverClickElement@chrome://marionette/content/interaction.js:183:11
+1675947895811	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:237:64
+openRemotePrompt@resource://gre/modules/Prompter.jsm:619:17
+openPrompt@resource://gre/modules/Prompter.jsm:663:25
+nsIPrompt_prompt@resource://gre/modules/Prompter.jsm:869:10
+prompt@resource://gre/modules/Prompter.jsm:703:36
+jsPrompt@https://the-internet.herokuapp.com/javascript_alerts:49:19
+onclick@https://the-internet.herokuapp.com/javascript_alerts:1:1
+event.synthesizeMouseAtPoint@chrome://marionette/content/event.js:213:14
+webdriverClickElement@chrome://marionette/content/interaction.js:183:11
+1675947913460	Marionette	INFO	Stopped listening on port 50729
+1675949232281	geckodriver	INFO	Listening on 127.0.0.1:50907
+1675949235486	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50908" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\DAFFOD~1\\AppData\\Local\\Temp\\rust_mozprofilepfo1QN"
+1675949242110	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1675949242737	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1675949242738	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1675949242738	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1675949242739	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: chrome://remote/content/RemoteAgent.jsm, line 36: Error: Remote agent is disabled by preference
+1675949262036	Marionette	INFO	Listening on port 50913
+DevTools listening on true
+1675949262585	Marionette	WARN	TLS certificate errors will be ignored for this session
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+1675950840622	Marionette	INFO	Stopped listening on port 50913
+Local\\Temp\\rust_mozprofileraOsdN"
+1675950513907	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1675950514532	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1675950514533	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1675950514534	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1675950514534	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: chrome://remote/content/RemoteAgent.jsm, line 36: Error: Remote agent is disabled by preference
+1675950557428	Marionette	INFO	Listening on port 51063
+DevTools listening on true
+1675950558135	Marionette	WARN	TLS certificate errors will be ignored for this session
+1675950569173	Marionette	WARN	TimedPromise timed out after 0 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:237:64
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1675950784148	Marionette	INFO	Stopped listening on port 51063
+"--marionette" "--remote-debugging-port" "51227" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\DAFFOD~1\\AppData\\Local\\Temp\\rust_mozprofilelAzVTR"
+1675950711673	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1675950712480	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1675950712480	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1675950712481	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1675950712481	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: chrome://remote/content/RemoteAgent.jsm, line 36: Error: Remote agent is disabled by preference
+1675950743118	Marionette	INFO	Listening on port 51239
+DevTools listening on true
+1675950743963	Marionette	WARN	TLS certificate errors will be ignored for this session
+1675950750104	Marionette	WARN	TimedPromise timed out after 0 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:237:64
+1675950812578	Marionette	INFO	Stopped listening on port 51239
+1675950860715	geckodriver	INFO	Listening on 127.0.0.1:51380
+1675950864032	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51381" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\DAFFOD~1\\AppData\\Local\\Temp\\rust_mozprofileLweMuf"
+1675950868857	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1675950869678	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1675950869678	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1675950869679	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1675950869680	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+[Parent 11792, Gecko_IOThread] WARNING: file z:/task_1579288126/build/src/ipc/chromium/src/base/process_util_win.cc, line 160
+JavaScript error: chrome://remote/content/RemoteAgent.jsm, line 36: Error: Remote agent is disabled by preference
+1675950897451	Marionette	INFO	Listening on port 51388
+DevTools listening on true
+1675950898054	Marionette	WARN	TLS certificate errors will be ignored for this session
+1675950909119	Marionette	WARN	TimedPromise timed out after 0 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:237:64
