@@ -447,3 +447,7 @@ DevTools listening on true
 1675950898054	Marionette	WARN	TLS certificate errors will be ignored for this session
 1675950909119	Marionette	WARN	TimedPromise timed out after 0 ms: stacktrace:
 bail@chrome://marionette/content/sync.js:237:64
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x8000E,name=PBackgroundIDBDatabase::Msg_CloseAfterInvalidationComplete) Channel error: cannot send/recv
+
+1675951694153	Marionette	INFO	Stopped listening on port 51388
