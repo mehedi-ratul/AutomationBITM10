@@ -1,0 +1,37 @@
+1. To Run all functions in a file:
+ >>type- [pytest] or [python -m pytest in the terminal end enter]
+ Ex: pytest or
+     python -m pytest
+
+2. To Run all files:
+ >>type- [pytest] or [python -m pytest in the terminal end enter]
+ Ex: pytest or
+     python -m pytest
+
+3.To run specific file:
+ >>type- [pytest .\package name\file name] or [python -m pytest .\package name\file name]
+ EX: pytest .\6_Pytest\test_demo1.py or
+     python -m pytest .\6_Pytest\test_demo1.py
+
+4.To run specific functions from specific file:
+>>type- [pytest .\package name\file name -k {function name/substring}] or [python -m pytest .\package name\file name -k {function name/substring}]
+ Ex: pytest .\6_Pytest\test_demo1.py -k add or
+     python -m pytest .\6_Pytest\test_demo1.py -k add
+
+5.Grouping test:
+>>pytest -m <markname> -v
+Ex: python -m pytest .\6_Pytest\test_demo3.py -m valid -v
+
+6. To see test details:
+>> add -v at the last
+Ex: 1. pytest -v or
+       python -m pytest -v
+
+    2. pytest .\6_Pytest\test_demo1.py -v or
+       python -m pytest .\6_Pytest\test_demo1.py -v
+
+    3. pytest .\6_Pytest\test_demo1.py -k add -v or
+       python -m pytest .\6_Pytest\test_demo1.py -k add -v
+
+6. To Generate report:
+>> Install pytest-html-reporter
